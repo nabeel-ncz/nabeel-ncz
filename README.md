@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, I'm Muhammed Nabeel 👋
+I am a passionate MERN (MongoDB, Express.js, React, Node.js) stack developer, constantly exploring and embracing new technologies. With a keen eye for detail and a love for building scalable and efficient web applications, I thrive in the dynamic world of web development.
 
 <!--
 **nabeel-ncz/nabeel-ncz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
