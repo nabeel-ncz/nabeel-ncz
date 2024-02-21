@@ -20,5 +20,7 @@ A self-taught Full Stack Developer specializing in MERN technologies, consistent
 
 </p>
 
+![](https://komarev.com/ghpvc/?username=nabeel-ncz&color=green)
+
 ### 📫 Let's Connect!
 [Linked In](https://www.linkedin.com/in/muhammed-nabeel-b71279254/)
