@@ -4,8 +4,8 @@ A self-taught Full Stack Engineer specializing in MERN, consistently exploring a
 - Node.js - Express - React - Next.js -Typescript - MongoDB - Postgresql
 - Apache kafka - Docker - Kubernetes - Github Actions - CI/CD - AWS - Figma 
 
-- [Linked In](https://www.linkedin.com/in/muhammed-nabeel-b71279254/) ↗️
-- [Portfolio](https://nabeelncz.super.site) ↗️
+[Linked In](https://www.linkedin.com/in/muhammed-nabeel-b71279254/) ↗️ <br />
+[Portfolio](https://nabeelncz.super.site) ↗️
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabeel-ncz&hide=css,scss,html&theme=tokyonight)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabeel-ncz&hide=Handlebars,css,scss,html&theme=tokyonight)
 
