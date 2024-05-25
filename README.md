@@ -7,5 +7,5 @@ A self-taught Full Stack Engineer specializing in MERN, consistently exploring a
 [Linked In](https://www.linkedin.com/in/muhammed-nabeel-b71279254/) ↗️ <br />
 [Portfolio](https://nabeelncz.super.site) ↗️
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabeel-ncz&hide=Handlebars,css,scss,html&theme=tokyonight)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabeel-ncz&hide=Handlebars,css,scss,html&theme=tokyonight&layout=compact)
 
